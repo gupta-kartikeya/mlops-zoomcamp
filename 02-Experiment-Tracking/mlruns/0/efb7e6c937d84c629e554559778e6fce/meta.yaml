@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/efb7e6c937d84c629e554559778e6fce/artifacts
+end_time: 1717022775959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb7e6c937d84c629e554559778e6fce
+run_name: judicious-ox-969
+run_uuid: efb7e6c937d84c629e554559778e6fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717022764874
+status: 3
+tags: []
+user_id: codespace

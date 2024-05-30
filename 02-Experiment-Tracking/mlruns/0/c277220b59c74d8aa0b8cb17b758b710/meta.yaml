@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c277220b59c74d8aa0b8cb17b758b710/artifacts
+end_time: 1717017210525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c277220b59c74d8aa0b8cb17b758b710
+run_name: debonair-wolf-234
+run_uuid: c277220b59c74d8aa0b8cb17b758b710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717017199639
+status: 4
+tags: []
+user_id: codespace

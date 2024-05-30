@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3632a05fefb7402c876a38cee7cd729f/artifacts
+end_time: 1717021162563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3632a05fefb7402c876a38cee7cd729f
+run_name: capricious-pug-344
+run_uuid: 3632a05fefb7402c876a38cee7cd729f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717021150147
+status: 3
+tags: []
+user_id: codespace

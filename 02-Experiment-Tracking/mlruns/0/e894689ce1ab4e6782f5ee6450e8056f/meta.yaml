@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e894689ce1ab4e6782f5ee6450e8056f/artifacts
+end_time: 1716844855876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e894689ce1ab4e6782f5ee6450e8056f
+run_name: adventurous-flea-510
+run_uuid: e894689ce1ab4e6782f5ee6450e8056f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716844844839
+status: 4
+tags: []
+user_id: codespace
